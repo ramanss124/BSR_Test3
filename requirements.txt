@@ -1,0 +1,9 @@
+pandas
+numpy
+tabula-py
+pikepdf
+pdfx
+Flask
+operator
+uuid
+re
